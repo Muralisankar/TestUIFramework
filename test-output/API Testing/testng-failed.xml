@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [API Testing]" guice-stage="DEVELOPMENT">
+  <test name="API Testing Scenarios">
+    <classes>
+      <class name="CucumberOptions.TestRunner"/>
+    </classes>
+  </test> <!-- API Testing Scenarios -->
+</suite> <!-- Failed suite [API Testing] -->
